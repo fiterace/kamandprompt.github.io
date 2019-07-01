@@ -483,6 +483,10 @@ Footer
   text-align: left;
   padding-left: 10px;
   margin-right: 0;
+<<<<<<< HEAD
+=======
+  width: 380px;
+>>>>>>> bf73111... Fix for contact us Section for widescreen View of Firefox.
 }
 
 .footerhead h3 {
@@ -712,6 +716,7 @@ Responsive media queries
   .row2 {
     float: right;
     width: 380px;
+<<<<<<< HEAD
   }
 
   .contributor-div {
@@ -721,6 +726,8 @@ Responsive media queries
   .contributor-div .team-img {
     padding-left: 20%;
     padding-right: 20%;
+=======
+>>>>>>> bf73111... Fix for contact us Section for widescreen View of Firefox.
   }
 }
 
